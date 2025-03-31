@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+:root{
+  font-family: "Noto Sans", sans-serif;
+  background-color: rgba(24 3 23);
+  color: white
+}
+
+.bg-image{
+  background-image: url("assets//noise.webp");
+}
