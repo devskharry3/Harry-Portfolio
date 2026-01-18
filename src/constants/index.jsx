@@ -40,6 +40,16 @@ export const PROJECTS = [
 
   {
     id: 1,
+    title: "Fullstack E-commerce Website",
+    description:
+      "A full-featured e-commerce website built with React , redis mongodb and Node.js . It includes user authentication, inventory, Dasboard,  product management, and an integrated payment gateway.",
+    techStack: ["Html", "Css", "Javascript", "Tailwind", "React", "MongoDb","Redis"],
+    imgSrc: project1,
+    link: "https://fullstack-ecommerce-s7ei.onrender.com",
+  },
+
+  {
+    id: 2,
     title: "Online Learning Platform",
     description:
       "An e-learning platform offering video courses, quizzes, and progress tracking for students.",
@@ -49,7 +59,7 @@ export const PROJECTS = [
   },
 
   {
-    id: 2,
+    id: 3,
     title: "Blog Platform",
     description:
       "A blogging platform with a content management system, user authentication, and an intuitive editor.",
@@ -59,7 +69,7 @@ export const PROJECTS = [
   },
 
   {
-    id: 3,
+    id: 4,
     title: "E-commerce Website",
     description:
       "A full-featured e-commerce website built with React and Node.js. It includes user authentication, product management, and an integrated payment gateway.",
