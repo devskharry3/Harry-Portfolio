@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from 'react'
 import { PROFILE } from '../constants'
 import { RiArrowRightUpLine } from 'react-icons/ri'
-import harry from '../assets/Harry.png'
+import harry from '../assets/Harry.jpg'
 import { gsap } from 'gsap'
 
 const Hero = () => {
